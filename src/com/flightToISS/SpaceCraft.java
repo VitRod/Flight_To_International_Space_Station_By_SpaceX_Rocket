@@ -1,6 +1,7 @@
 package com.flightToISS;
 
 public interface SpaceCraft {
+	
 	 boolean launch();
 	 
 	 boolean docking();
