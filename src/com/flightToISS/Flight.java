@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Flight {
-
 		private ArrayList<Supplies> numberOfSupplies;
 		private ArrayList<Rocket_of_SpaceX> rocket1_Falcon9;
 		private ArrayList<Rocket_of_SpaceX> rocket2_FalconHeavy;
