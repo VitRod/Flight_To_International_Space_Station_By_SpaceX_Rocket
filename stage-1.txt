@@ -1,0 +1,17 @@
+scientific equipment=3000
+scientific equipment=3000
+scientific equipment=3000
+scientific equipment=3000
+scientific equipment=2000
+scientific equipment=2000
+scientific equipment=2000
+scientific equipment=2000
+scientific equipment=1000
+scientific equipment=1000
+scientific equipment=1000
+scientific equipment=1000
+fuel=1000
+plants=500
+compressed air=9380
+books=700
+water=9000

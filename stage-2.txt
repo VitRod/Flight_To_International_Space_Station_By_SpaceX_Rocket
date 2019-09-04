@@ -1,0 +1,13 @@
+food=600
+clothes=800
+personal hygiene=400
+medicaments=300
+materials for scientific experiments=200
+supercomputer=1
+telescope=1
+nano-satellite=1
+other crew supplies=350
+spacewalk equipment=100
+computer resources=300
+american hardware=400
+equipment for ISS=500
